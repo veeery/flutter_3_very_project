@@ -4,7 +4,7 @@ import 'package:get/get.dart' hide Response;
 
 class AppDio {
   static String baseUrl = "https://reqres.in/";
-  // static String baseUrl = "http://siperkasa.itcs.co.id/";
+  // static String baseUrl = "192.168.80.214";
 
   final dio = createDio();
 
